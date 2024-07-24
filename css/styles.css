@@ -345,8 +345,8 @@ img {
 .icon-list {
     display: flex;
     align-items: center;
-    gap: 24px;
     justify-content: center;
+    gap: 24px;
 
 }
 
@@ -514,6 +514,7 @@ img {
 .footer-social-media {
     display: flex;
     align-items: baseline;
+    flex-direction: column;
 
 }
 
