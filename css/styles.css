@@ -109,6 +109,7 @@ img {
     letter-spacing: 0.02em;
     color: #2e2f42;
     display: block;
+    padding: 24px 0;
 }
 
 .header-menu-link:hover {
@@ -185,7 +186,9 @@ img {
     padding: 188px 0;
     max-width: 1440px;
     background-repeat: no-repeat;
-    background-position: center;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    /* background-position: center; */
 }
 
 .hero-container {
@@ -345,6 +348,7 @@ img {
     align-items: center;
     justify-content: center;
     gap: 24px;
+    margin-top: 8px;
 
 }
 
